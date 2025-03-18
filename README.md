@@ -10,6 +10,6 @@ KotolikDev/KotolikDev is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![KotolikDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast)
+![KotolikDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast)
 
