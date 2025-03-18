@@ -1,3 +1,4 @@
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 # 💫 About Me:
 - 👋 Hi, I’m @KotolikDev!
 - 👀 I’m interested in Android development, mobile apps, and creating user-friendly interfaces.
