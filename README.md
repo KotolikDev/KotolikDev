@@ -1,4 +1,5 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:B125EA,100:7F52FF)
+
 # 💫 About Me:
 - 👋 Hi, I’m @KotolikDev!
 - 👀 I’m interested in Android development, mobile apps, and creating user-friendly interfaces.
@@ -6,7 +7,6 @@
 - 💞️ I’m looking to collaborate on Android apps or open-source mobile projects.
 - 😄 Pronouns: she/her. 
 - ⚡ Fun fact: I love learning both programming and foreign languages. I’m intermediate in Turkish, and I can’t walk past a cat without saying "Merhaba!" 🐱
-
 <!---
 KotolikDev/KotolikDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
