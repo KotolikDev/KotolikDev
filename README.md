@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 # 📊 GitHub Stats:
 ![KotolikDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github)
-![](https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=highcontrast&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
