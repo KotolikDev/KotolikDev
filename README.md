@@ -24,9 +24,47 @@ You can click the Preview link to take a look at your changes.
   </a> 
 </p>
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![KotolikDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github)
 ![](https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=highcontrast&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+# 📊 GitHub Stats:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=transparent&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github" alt="KotolikDev's GitHub stats" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=highcontrast&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=transparent&hide_border=false"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=highcontrast&hide_border=false" alt="KotolikDev's GitHub streak stats" />
+</picture>
+<br/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast" alt="Top Langs" />
+</picture>
