@@ -34,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 # 📊 GitHub Stats:
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github&cache_seconds=3600"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=buefy&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=buefy&rank_icon=github&cache_seconds=3600"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github" alt="KotolikDev's GitHub stats" />
@@ -46,11 +46,11 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
   <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=highcontrast&hide_border=false"
+    srcset="https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=highcontrast&hide_border=false&cache_seconds=3600"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=buefy&hide_border=false"
+    srcset="https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=buefy&hide_border=false&cache_seconds=3600"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=highcontrast&hide_border=false" alt="KotolikDev's GitHub streak stats" />
@@ -59,11 +59,11 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast&cache_seconds=3600"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=buefy"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=buefy&cache_seconds=3600"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast" alt="Top Langs" />
