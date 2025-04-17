@@ -62,14 +62,14 @@ You can click the Preview link to take a look at your changes.
 <picture>
   <source 
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast&border_color=2f3742"
   >
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=buefy&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=buefy&border_color=e1e4e8"
   >
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast&border_color=2f3742" 
     alt="Top Languages"
   />
 </picture>
