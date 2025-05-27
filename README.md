@@ -5,8 +5,7 @@
 - 👀 I’m interested in Android development, mobile apps, and creating user-friendly interfaces.
 - 🌱 I’m currently learning Java and Kotlin for Android development.
 - 💞️ I’m looking to collaborate on Android apps or open-source mobile projects.
-- 😄 Pronouns: she/her. 
-- ⚡ Fun fact: I love learning both programming and foreign languages. I’m intermediate in Turkish, and I can’t walk past a cat without saying "Merhaba!" 🐱
+- ⚡ Fun fact: I love learning both programming and foreign languages. I’m intermediate in Turkish, and I can’t walk past a cat without saying "Çok tatlısın!" 🐱
 <!---
 KotolikDev/KotolikDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,12 +23,6 @@ You can click the Preview link to take a look at your changes.
   </a> 
 </p>
 
-<!-- # 📊 GitHub Stats:
-![KotolikDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotolikDev&show_icons=true&theme=highcontrast&rank_icon=github)
-![](https://nirzak-streak-stats.vercel.app/?user=KotolikDev&theme=highcontrast&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotolikDev&langs_count=8&theme=highcontrast)
-
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
 # 📊 GitHub Stats:
 <picture>
